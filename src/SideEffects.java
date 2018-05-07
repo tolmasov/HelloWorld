@@ -3,7 +3,7 @@ public class SideEffects {
         int i =0;
 
         if(true &(++i<=1))
-        System.out.println("asdвываываfadf");
+        System.out.println("asdыыыfadf");
         System.out.println(i);
     }
 }
